@@ -1,0 +1,15 @@
+./rtl/cache_arbitrate.v
+./rtl/cache_info.v
+./rtl/cache_replace.v
+./rtl/cache_response.v
+./rtl/cache_top.v
+./rtl/cache_writeback.v
+./rtl/dff.v
+./rtl/regfile.v
+./rtl/sram.v
+./rtl/sram_strb.v
+./sim/core_dir/core_pkg.sv
+./sim/axi_dir/axi_pkg.sv
+./sim/rpt_pkg.sv
+./sim/cache_pkg.sv
+./sim/tb.sv
